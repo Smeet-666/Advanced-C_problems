@@ -15,6 +15,6 @@ public class practical1c2 {
         System.out.println("Total after discount is: ");
         System.out.println(discount(principal, discount)+"Rs");
         sc.close();
-
+        
     }
 }
